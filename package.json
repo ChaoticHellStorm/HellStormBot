@@ -1,0 +1,22 @@
+{
+  "name": "hellstormbot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ChaoticHellStorm",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "canvacord": "^6.0.2",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "hellstormbot": "file:",
+    "mongodb": "^4.17.2",
+    "mongoose": "^8.13.1",
+    "ms": "^2.1.3",
+    "pretty-ms": "^9.2.0"
+  }
+}
